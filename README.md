@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupam paul</h1>
-<h3 align="center">A passionate MERN stack Developer and a Data Analyst India</h3>
+<h3 align="center">A passionate MERN stack Developer and a Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
 
